@@ -1,1 +1,8 @@
-ceci est un fichier de qualité
+//ceci est un fichier de qualité
+
+// exemple de main
+int main(void)
+{
+  return 0;
+}
+
