@@ -1,7 +1,7 @@
 //ceci est un fichier de qualité
 
 // exemple de main
-int main(void)
+int main(int argc, char **argv)
 {
   return 0;
 }
