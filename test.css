@@ -22,3 +22,6 @@ h7 { /** Les sous-titres (titres de niveau 7) */
   font-style: italic;         /* Texte en italique */
   text-indent: 1em;           /* Et indenté par rapport aux autres titres et paragraphes, pour montrer la hierarchie */
 }
+h3 {
+	color: white;
+}
